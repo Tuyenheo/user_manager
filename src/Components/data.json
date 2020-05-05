@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name" : "Hoang",
+        "tel" : "0688745556",
+        "permistion" : 1
+    },
+    {
+        "id": 2,
+        "name" : "Lan",
+        "tel" : "0688745556",
+        "permistion" : 2
+    },
+    {
+        "id": 3,
+        "name" : "Mận",
+        "tel" : "0688745556",
+        "permistion" : 3
+    },
+    {
+        "id": 4,
+        "name" : "Văn",
+        "tel" : "0688745556",
+        "permistion" : 1
+    },
+    {
+        "id": 5,
+        "name" : "Tiến",
+        "tel" : "0688745556",
+        "permistion" : 3
+    },
+    {
+        "id": 6,
+        "name" : "Hoa",
+        "tel" : "0688745556",
+        "permistion" : 2
+    },
+    {
+        "id": 7,
+        "name" : "Hoa",
+        "tel" : "0688745557",
+        "permistion" : 2
+    }
+]
